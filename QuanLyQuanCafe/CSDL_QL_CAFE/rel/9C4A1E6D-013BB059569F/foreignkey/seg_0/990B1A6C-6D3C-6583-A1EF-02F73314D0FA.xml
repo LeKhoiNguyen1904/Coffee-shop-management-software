@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="990B1A6C-6D3C-6583-A1EF-02F73314D0FA" containerWithKeyObject="6C4A5072-907D-135D-B2B8-797C3B355AE5" localFKIndex="5C23923E-6832-686E-15FC-9B21FAF3ACC2" name="FK_CTPN_PN">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>FK_CTPN_PN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<referredTableLongName>C##CAFE_APP.PHIEUNHAP</referredTableLongName>
+<deleteRule>CASCADE</deleteRule>
+<referredTableID>D5A6ACFC-4958-5F27-56AB-24938C89FA46</referredTableID>
+<keyObject>31DC348D-E2DC-6F2C-B071-848E3F500BF1</keyObject>
+<referredKeyID>31DC348D-E2DC-6F2C-B071-848E3F500BF1</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>MAPN</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

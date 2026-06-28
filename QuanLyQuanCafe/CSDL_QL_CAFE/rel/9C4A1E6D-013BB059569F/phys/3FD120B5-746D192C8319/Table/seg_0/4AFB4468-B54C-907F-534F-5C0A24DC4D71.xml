@@ -1,0 +1,66 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="MON" directorySegmentName="seg_0" id="4AFB4468-B54C-907F-534F-5C0A24DC4D71">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>7C924D61-38CE-1B42-783C-0E81A5AFA8BF</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="LOAIMON" id="09A9ED09-CAF3-ECEF-3E34-A9368BBDE3C4">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TENMON" id="2294496B-7ABE-5810-C63A-8FB6BE8F3F69">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MAMON" id="35A6C021-7659-4D15-3965-5E40209626F5">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TRANGTHAI" id="48A82B45-7EAB-44FB-344D-1425F77E6DE2">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>&apos;BAN&apos;</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="DONGIA" id="818E99EC-C2E9-9D26-F9CD-3219B5D0BAF9">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_MON_LOAIMON" id="707CF375-D44C-F8F3-F6C4-D0100B080AA9">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="MON_PK" id="8209AE7F-CDF5-5C60-51C5-BFF65FBB2D66">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<indexSegment>4ABC485D-8D75-6D02-C5E1-635259744A6C</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

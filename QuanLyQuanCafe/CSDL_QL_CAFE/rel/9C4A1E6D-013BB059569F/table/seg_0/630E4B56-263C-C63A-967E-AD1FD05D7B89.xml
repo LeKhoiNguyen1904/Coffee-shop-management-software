@@ -1,0 +1,177 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="630E4B56-263C-C63A-967E-AD1FD05D7B89" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="LICHSU_DANGNHAP">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>LICHSU_DANGNHAP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="2F865A7D-BC96-6F99-D942-477452D952DE">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>ID</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<identityColumn>true</identityColumn>
+<autoIncrementGenerateAlways>true</autoIncrementGenerateAlways>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementDisableCache>false</autoIncrementDisableCache>
+<autoIncrementCache>20</autoIncrementCache>
+<autoIncrementOrder>false</autoIncrementOrder>
+</Column>
+<Column name="USERNAME" id="C14C0499-438B-72A3-85CA-B433ECE0F5D9">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>USERNAME</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="4493A35D-D6AE-D832-470A-669DE230610B" referredColumn="6E2EC436-759F-8026-CA8A-A77E8D424729"/>
+</associations>
+</Column>
+<Column name="MANV" id="1613604F-FBC4-18BA-8A34-45516F63BDD0">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>MANV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="6C18506B-3E8F-FC92-27CB-A08C4A489B39" referredColumn="40B168E4-8DA9-5731-A91B-8D8CBFBDA876"/>
+</associations>
+</Column>
+<Column name="HOATDONG" id="8DAF3BE7-4052-C942-8CA0-0C38C33064BE">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>HOATDONG</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="THOIGIAN" id="98703E53-61C4-1D88-51FF-81F01E7BF36E">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>THOIGIAN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<defaultValue>SYSDATE</defaultValue>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="IP_ADDRESS" id="2BBE67AC-D226-CB8A-E783-0591BD10DAB2">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>IP_ADDRESS</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="GHI_CHU" id="93AA1082-F67A-A148-6939-1853360202F6">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>LICHSU_DANGNHAP</sourceObjSchema>
+<sourceObjName>GHI_CHU</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>500 BYTE</dataTypeSize>
+<ownDataTypeParameters>500 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="AAFD933C-6875-8476-6B23-60729BB35198" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="LICHSU_DANGNHAP_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011636</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2F865A7D-BC96-6F99-D942-477452D952DE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="EBCB2218-6C78-53E5-9468-EB64AF4495B6" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_LICHSU_USERNAME">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_LICHSU_USERNAME</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C14C0499-438B-72A3-85CA-B433ECE0F5D9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="87187A80-8D46-8F4C-7340-FF3EEFFFE05E" name="FK_LS_NV">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1613604F-FBC4-18BA-8A34-45516F63BDD0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="083E9926-0D3E-522B-91FC-E161DCF96561" name="FK_LS_USER">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C14C0499-438B-72A3-85CA-B433ECE0F5D9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

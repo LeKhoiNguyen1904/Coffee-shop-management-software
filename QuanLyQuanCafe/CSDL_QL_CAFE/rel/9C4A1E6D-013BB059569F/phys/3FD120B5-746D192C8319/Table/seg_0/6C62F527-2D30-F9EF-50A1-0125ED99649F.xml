@@ -1,0 +1,40 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="PHANQUYEN" directorySegmentName="seg_0" id="6C62F527-2D30-F9EF-50A1-0125ED99649F">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>7C924D61-38CE-1B42-783C-0E81A5AFA8BF</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="MOTA" id="A6EC426E-35C8-2A70-1F64-10DD26973B1A">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ROLE_CODE" id="D955F8FF-013D-938E-4C7F-D25580E49BCF">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PHANQUYEN_PK" id="E3455574-EFE8-40CF-51E3-D1A5ABDC74CE">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<indexSegment>4ABC485D-8D75-6D02-C5E1-635259744A6C</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

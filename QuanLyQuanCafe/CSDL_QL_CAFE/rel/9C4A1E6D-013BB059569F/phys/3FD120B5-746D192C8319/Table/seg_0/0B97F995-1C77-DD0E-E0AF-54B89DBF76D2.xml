@@ -1,0 +1,113 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="HOADON" directorySegmentName="seg_0" id="0B97F995-1C77-DD0E-E0AF-54B89DBF76D2">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>7C924D61-38CE-1B42-783C-0E81A5AFA8BF</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="NGAYLAP" id="1B529085-E6C2-8061-4DD8-1282A4A7AA05">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>SYSDATE</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="MANV" id="57C07BEC-E06B-C2FD-E878-7380248EB0B6">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TRANGTHAI" id="623E4608-6F53-854F-FD3D-89B4A809FBD1">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>&apos;CHO&apos;</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="TONGTIEN" id="71F21BCC-E4D8-0690-4CA0-A36296EB01DA">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="PAYMENT_INFO_IV" id="A35FA091-A314-8DA4-2071-9B00FF3DABC9">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MAKH" id="A780BCDA-13F5-9F30-B82B-27BCE8B56613">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MABAN" id="A8734C09-1371-0B80-E21B-2E6380747BD2">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MAHD" id="B41B9B8D-1667-C15B-FE3F-B693B1767707">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PAYMENT_INFO_ENC" id="E3CB2239-2689-3867-885E-E884B510FCC1">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_HOADON_TRANGTHAI" id="09ECE62C-3C24-7B52-4C7E-2E91CCE81139">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+</IndexProxy>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_HOADON_NGAYLAP" id="A6F7B145-401C-A773-128C-B4F678FE337B">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_HD_NV" id="6587532B-D0D5-9FF1-16CA-F5FBCB39FFFF">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_HD_KH" id="DC454D40-7FCB-7657-6C78-A360CF369441">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_HD_BAN" id="E986E837-4257-703D-5BB5-F5EC653629FA">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="HOADON_PK" id="1BA14945-E734-D7EC-D38E-A8B97D0B951F">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<indexSegment>4ABC485D-8D75-6D02-C5E1-635259744A6C</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

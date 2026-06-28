@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="C5490FA9-D767-1AD6-7297-A3B1AB82EEFA" containerWithKeyObject="B75F9B99-5570-FC38-47BC-BA22C99073CF" localFKIndex="4AEC2948-FC60-7B7A-2104-1441C270B23A" name="FK_TK_ROLE">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>FK_TK_ROLE</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<referredTableLongName>C##CAFE_APP.PHANQUYEN</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>6C62F527-2D30-F9EF-50A1-0125ED99649F</referredTableID>
+<keyObject>E3455574-EFE8-40CF-51E3-D1A5ABDC74CE</keyObject>
+<referredKeyID>E3455574-EFE8-40CF-51E3-D1A5ABDC74CE</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ROLE_CODE</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

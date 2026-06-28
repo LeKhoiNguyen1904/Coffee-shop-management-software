@@ -1,0 +1,148 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9AACC963-AEA0-25DD-1DFA-56E4B0C1B781" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="NGUYENLIEU">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>NGUYENLIEU</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MANL" id="F664D86A-CBDD-C915-2C10-325F6A02C503">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>MANL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TENNL" id="5B7CBEB1-231F-975F-8C1E-D9CAE4D13EBB">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>TENNL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DONVI" id="7F491977-4817-D640-0974-9B22DA0F4A90">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>DONVI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SOLUONGTON" id="D3668153-9477-F0CB-CA12-399B0DD7627B">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>SOLUONGTON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<defaultValue>0</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SECURITY_LEVEL" id="665BE3AA-EF3C-7A4C-0429-CD7A7651E761">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>SECURITY_LEVEL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<constraintName>CHK_NL_SECURITY</constraintName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<listOfValues>
+<valueDef value="&apos;CONFIDENTIAL&apos;" description=""/>
+<valueDef value="&apos;INTERNAL&apos;" description=""/>
+<valueDef value="&apos;PUBLIC&apos;" description=""/>
+</listOfValues>
+<defaultValue>&apos;PUBLIC&apos;</defaultValue>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MANCC_CHINH" id="29A7B71D-C92D-45F1-E43C-CCBA70F6A7AD">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NGUYENLIEU</sourceObjSchema>
+<sourceObjName>MANCC_CHINH</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BA7C5F32-5224-26DD-4E3E-E69C6CEA30C4" referredColumn="182D112D-E6A4-65EC-D7B7-A105761A4D84"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0C2ACE19-1901-61AB-FF2B-7FE1C844604D" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="NGUYENLIEU_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011662</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F664D86A-CBDD-C915-2C10-325F6A02C503"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="86E07470-360C-E4D9-2099-CB30CE714534" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_NL_SECURITY">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_NL_SECURITY</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="665BE3AA-EF3C-7A4C-0429-CD7A7651E761"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7FDF7E8E-12D4-B655-7654-FDCEA64DF999" name="FK_NL_NCC">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="29A7B71D-C92D-45F1-E43C-CCBA70F6A7AD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="8B154C89-DEB8-1F1D-FB5A-98B862DAA948" containerWithKeyObject="6C4A5072-907D-135D-B2B8-797C3B355AE5" localFKIndex="A4FE354E-FE9C-BB7B-A615-FABA3D1A0E0E" name="FK_CTPN_NL">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>FK_CTPN_NL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<referredTableLongName>C##CAFE_APP.NGUYENLIEU</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>9AACC963-AEA0-25DD-1DFA-56E4B0C1B781</referredTableID>
+<keyObject>0C2ACE19-1901-61AB-FF2B-7FE1C844604D</keyObject>
+<referredKeyID>0C2ACE19-1901-61AB-FF2B-7FE1C844604D</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>MANL</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CSDL_QL_CAFE" id="B99D4C9C-E66A-7917-5580-974E59EB1B95" version="3.5">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:11:56 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B99D4C9C-E66A-7917-5580-974E59EB1B95</designId>
+</OSDM_Design>

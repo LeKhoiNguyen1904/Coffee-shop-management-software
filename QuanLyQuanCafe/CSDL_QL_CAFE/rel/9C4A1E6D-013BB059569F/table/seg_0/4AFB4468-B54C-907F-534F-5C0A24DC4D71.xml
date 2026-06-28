@@ -1,0 +1,118 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4AFB4468-B54C-907F-534F-5C0A24DC4D71" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="MON">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>MON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MAMON" id="35A6C021-7659-4D15-3965-5E40209626F5">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>MON</sourceObjSchema>
+<sourceObjName>MAMON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TENMON" id="2294496B-7ABE-5810-C63A-8FB6BE8F3F69">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>MON</sourceObjSchema>
+<sourceObjName>TENMON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LOAIMON" id="09A9ED09-CAF3-ECEF-3E34-A9368BBDE3C4">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>MON</sourceObjSchema>
+<sourceObjName>LOAIMON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DONGIA" id="818E99EC-C2E9-9D26-F9CD-3219B5D0BAF9">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>MON</sourceObjSchema>
+<sourceObjName>DONGIA</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TRANGTHAI" id="48A82B45-7EAB-44FB-344D-1425F77E6DE2">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>MON</sourceObjSchema>
+<sourceObjName>TRANGTHAI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<constraintName>CHK_MON_TRANGTHAI</constraintName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<listOfValues>
+<valueDef value="&apos;BAN&apos;" description=""/>
+<valueDef value="&apos;NGUNG_BAN&apos;" description=""/>
+</listOfValues>
+<defaultValue>&apos;BAN&apos;</defaultValue>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8209AE7F-CDF5-5C60-51C5-BFF65FBB2D66" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="MON_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011645</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="35A6C021-7659-4D15-3965-5E40209626F5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="707CF375-D44C-F8F3-F6C4-D0100B080AA9" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_MON_LOAIMON">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_MON_LOAIMON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="09A9ED09-CAF3-ECEF-3E34-A9368BBDE3C4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

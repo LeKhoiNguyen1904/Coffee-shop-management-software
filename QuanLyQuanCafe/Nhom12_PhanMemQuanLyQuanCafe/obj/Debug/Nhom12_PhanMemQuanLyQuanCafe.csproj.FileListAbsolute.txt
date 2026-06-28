@@ -1,0 +1,184 @@
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormThongKe.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_P.37170F04.Up2Date
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormQuanLyMenu.resources
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.dll
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.xml
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormQuanLyMenu.resources
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormThongKe.resources
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.Properties.Resources.resources
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_P.37170F04.Up2Date
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+E:\BM_CSDL\Video\QuanLyQuanCafe\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormAuditLog.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormAuditLog.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormQuanLyMenu.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormThongKe.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.dll
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.xml
+C:\Users\Khoi Nguyen\source\BMCSDL\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_P.37170F04.Up2Date
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormAuditLog.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormOLS.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormQuanLyMenu.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormThongKe.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.Properties.Resources.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Update_1)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_P.37170F04.Up2Date
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.dll
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Buffers.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Formats.Asn1.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Memory.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Encodings.Web.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Text.Json.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\bin\Debug\System.ValueTuple.xml
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe.config
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormAuditLog.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormOLS.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormQuanLyMenu.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.FormThongKe.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.Properties.Resources.resources
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_P.37170F04.Up2Date
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.exe
+E:\BM_CSDL\DoAn_QuanLyQuanCafe\QuanLyQuanCafe(Final)\QuanLyQuanCafe(Update)\QuanLyQuanCafe\Nhom12_PhanMemQuanLyQuanCafe\obj\Debug\Nhom12_PhanMemQuanLyQuanCafe.pdb

@@ -1,0 +1,41 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TriggerOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TriggerOraclev10g" name="TRG_FGA_HOADON_TONGTIEN" directorySegmentName="seg_0" id="A088AA73-0BEC-533D-00D0-62AB81A69AE9">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>TRG_FGA_HOADON_TONGTIEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<actions>INSERT, UPDATE, DELETE</actions>
+<body><![CDATA[DECLARE
+  PRAGMA AUTONOMOUS_TRANSACTION;
+  v_action VARCHAR2(50);
+  v_mahd NUMBER;
+  v_tongtien NUMBER;
+BEGIN
+  IF DELETING THEN
+    v_action := 'DELETE';
+    v_mahd := :OLD.MAHD;
+    v_tongtien := :OLD.TONGTIEN;
+  ELSIF UPDATING THEN
+    v_action := 'UPDATE';
+    v_mahd := :NEW.MAHD;
+    v_tongtien := :NEW.TONGTIEN;
+  ELSE
+    v_action := 'INSERT';
+    v_mahd := :NEW.MAHD;
+    v_tongtien := :NEW.TONGTIEN;
+  END IF;
+
+  IF v_tongtien > 1000000 THEN
+    pkg_audit.log_fga('HOADON', 'fga_hoadon_tongtien',
+      v_action || ' hĂ³a Ä‘Æ¡n giĂ¡ trá»‹ cao: HD' || v_mahd || ' (Tiá»�n: ' || v_tongtien || ')');
+  END IF;
+EXCEPTION
+  WHEN OTHERS THEN NULL;
+END;
+]]></body>
+<triggerTime>AFTER</triggerTime>
+<owner>D02D1E13-63DF-857C-2883-CD8EAA7AFDE2</owner>
+<table>0B97F995-1C77-DD0E-E0AF-54B89DBF76D2</table>
+</TriggerOraclev10g>

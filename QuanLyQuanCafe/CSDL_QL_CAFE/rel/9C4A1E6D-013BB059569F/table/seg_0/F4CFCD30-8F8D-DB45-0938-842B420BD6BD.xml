@@ -1,0 +1,211 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F4CFCD30-8F8D-DB45-0938-842B420BD6BD" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="NHANVIEN">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>NHANVIEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MANV" id="40B168E4-8DA9-5731-A91B-8D8CBFBDA876">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>MANV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="HOTEN" id="BBFBF12A-C061-67BE-C823-4134BB67D1DE">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>HOTEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="EMAIL" id="86CEEA7F-EC5E-8B8F-4C36-5A4CDA95F9F8">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>EMAIL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SODT" id="2F08E723-8B69-985A-3A95-FE9C7D1CC7DA">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>SODT</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15 BYTE</dataTypeSize>
+<ownDataTypeParameters>15 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NGAYSINH" id="52B5F062-BDD3-6CF1-44B3-69D851135D23">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>NGAYSINH</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TRANGTHAI" id="6D36E154-4392-DA6E-7F10-9AD013B3DED0">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>TRANGTHAI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<constraintName>CHK_NV_TRANGTHAI</constraintName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<listOfValues>
+<valueDef value="&apos;ACTIVE&apos;" description=""/>
+<valueDef value="&apos;INACTIVE&apos;" description=""/>
+</listOfValues>
+<defaultValue>&apos;ACTIVE&apos;</defaultValue>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NGAYTAO" id="C6F570AD-F61E-AAC7-CC98-8AF64360D109">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>NGAYTAO</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<defaultValue>SYSDATE</defaultValue>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CCCD_ENC" id="3D6E8221-56AF-F1B9-DFAD-13C1FB32CCC2">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>CCCD_ENC</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>2000</dataTypeSize>
+<ownDataTypeParameters>2000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DIACHI_ENC" id="E9650E65-B55A-B8F3-F5E1-08AB23E9CD16">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>DIACHI_ENC</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>2000</dataTypeSize>
+<ownDataTypeParameters>2000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CCCD_IV" id="A2625FAB-5D50-48A6-8DCB-ED963D88E5AB">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>CCCD_IV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DIACHI_IV" id="33090F2B-86C0-E54E-5739-128877C783B4">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>NHANVIEN</sourceObjSchema>
+<sourceObjName>DIACHI_IV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C3F341FC-1A81-D898-2719-1650242982E1" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="NHANVIEN_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011626</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="40B168E4-8DA9-5731-A91B-8D8CBFBDA876"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="593B0B7F-DB44-DFC1-8D92-093AC1369EB1" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="NHANVIEN_EMAIL_UN">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011627</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="86CEEA7F-EC5E-8B8F-4C36-5A4CDA95F9F8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

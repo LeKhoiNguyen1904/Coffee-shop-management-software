@@ -1,0 +1,126 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D5A6ACFC-4958-5F27-56AB-24938C89FA46" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="PHIEUNHAP">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>PHIEUNHAP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MAPN" id="8FC94179-BB4E-E732-5372-B281F7449539">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>PHIEUNHAP</sourceObjSchema>
+<sourceObjName>MAPN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MANCC" id="E3423A00-7933-A8AF-1ABF-77AE43CB6173">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>PHIEUNHAP</sourceObjSchema>
+<sourceObjName>MANCC</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="3AB3BDC3-3F76-C51B-011F-12BF1CF8EBF6" referredColumn="182D112D-E6A4-65EC-D7B7-A105761A4D84"/>
+</associations>
+</Column>
+<Column name="MANV" id="19B8A093-5183-4319-8194-8AEBD95ECE73">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>PHIEUNHAP</sourceObjSchema>
+<sourceObjName>MANV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="C7B01985-42EA-670E-7AC3-D1A1ADA53773" referredColumn="40B168E4-8DA9-5731-A91B-8D8CBFBDA876"/>
+</associations>
+</Column>
+<Column name="NGAYNHAP" id="0218CF3E-5FCF-AC25-6CFA-94859650729F">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>PHIEUNHAP</sourceObjSchema>
+<sourceObjName>NGAYNHAP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<defaultValue>SYSDATE</defaultValue>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TONGTIEN" id="8150622D-A8F5-3470-E64C-F7586D765A66">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>PHIEUNHAP</sourceObjSchema>
+<sourceObjName>TONGTIEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<defaultValue>0</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="31DC348D-E2DC-6F2C-B071-848E3F500BF1" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="PHIEUNHAP_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011666</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8FC94179-BB4E-E732-5372-B281F7449539"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="01B2BAA8-6C64-F438-A2B2-21B6693D50C2" name="FK_PN_NCC">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E3423A00-7933-A8AF-1ABF-77AE43CB6173"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="78FAD616-4E12-2691-2B39-6BA0EA89FC9A" name="FK_PN_NV">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="19B8A093-5183-4319-8194-8AEBD95ECE73"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

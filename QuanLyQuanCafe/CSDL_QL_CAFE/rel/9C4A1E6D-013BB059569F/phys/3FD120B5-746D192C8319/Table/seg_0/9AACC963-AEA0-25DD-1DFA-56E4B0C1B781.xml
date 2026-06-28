@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="NGUYENLIEU" directorySegmentName="seg_0" id="9AACC963-AEA0-25DD-1DFA-56E4B0C1B781">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>7C924D61-38CE-1B42-783C-0E81A5AFA8BF</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="MANCC_CHINH" id="29A7B71D-C92D-45F1-E43C-CCBA70F6A7AD">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TENNL" id="5B7CBEB1-231F-975F-8C1E-D9CAE4D13EBB">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SECURITY_LEVEL" id="665BE3AA-EF3C-7A4C-0429-CD7A7651E761">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>&apos;PUBLIC&apos;</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="DONVI" id="7F491977-4817-D640-0974-9B22DA0F4A90">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SOLUONGTON" id="D3668153-9477-F0CB-CA12-399B0DD7627B">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="MANL" id="F664D86A-CBDD-C915-2C10-325F6A02C503">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_NL_SECURITY" id="86E07470-360C-E4D9-2099-CB30CE714534">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_NL_NCC" id="7FDF7E8E-12D4-B655-7654-FDCEA64DF999">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="NGUYENLIEU_PK" id="0C2ACE19-1901-61AB-FF2B-7FE1C844604D">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<indexSegment>4ABC485D-8D75-6D02-C5E1-635259744A6C</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TriggerOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TriggerOraclev10g" name="TRG_FGA_NGUYENLIEU_INTERNAL" directorySegmentName="seg_0" id="83BD13B0-BB84-B5F0-1466-A9991C673600">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>TRG_FGA_NGUYENLIEU_INTERNAL</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<actions>INSERT, UPDATE</actions>
+<body><![CDATA[DECLARE
+  PRAGMA AUTONOMOUS_TRANSACTION;
+  v_action VARCHAR2(50);
+BEGIN
+  IF INSERTING THEN
+    v_action := 'INSERT';
+  ELSE
+    v_action := 'UPDATE';
+  END IF;
+
+  pkg_audit.log_fga('NGUYENLIEU', 'fga_nguyenlieu_sensitive',
+    v_action || ' nguyĂªn liá»‡u sensitive: ' || :NEW.TENNL || ' (Level: ' || :NEW.SECURITY_LEVEL || ')');
+EXCEPTION
+  WHEN OTHERS THEN NULL;
+END;
+]]></body>
+<triggerTime>AFTER</triggerTime>
+<condition><![CDATA[NEW.SECURITY_LEVEL = 'INTERNAL' OR NEW.SECURITY_LEVEL = 'CONFIDENTIAL']]></condition>
+<owner>D02D1E13-63DF-857C-2883-CD8EAA7AFDE2</owner>
+<table>9AACC963-AEA0-25DD-1DFA-56E4B0C1B781</table>
+</TriggerOraclev10g>

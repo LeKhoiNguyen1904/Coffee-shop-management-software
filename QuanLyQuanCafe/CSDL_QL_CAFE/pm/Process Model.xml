@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="F3E4F46B-7BA3-45DB-B551-7CE9EF2D42CF">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:11:56 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

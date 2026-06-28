@@ -1,0 +1,116 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="TAIKHOAN" directorySegmentName="seg_0" id="B75F9B99-5570-FC38-47BC-BA22C99073CF">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>7C924D61-38CE-1B42-783C-0E81A5AFA8BF</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="LAST_LOGIN_AT" id="013C657E-8346-15EB-6115-E7F38899479F">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ROLE_CODE" id="1902517A-C64A-1386-F2E8-A13E0AF2F827">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LOCKED_UNTIL" id="586A9A8F-FEA9-22BC-796F-EF72C1125FC0">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MANV" id="60C4264F-46A9-62EF-8DAF-6A20AEDAD857">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PASSWORD_EXPIRES_AT" id="6752C34A-DCDB-7012-C765-085EB72B5F65">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>SYSDATE + 90</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="CONFIG_DATA_ENC" id="68B3D229-B30C-4C68-7E94-5813AAD63A4D">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="USERNAME" id="6E2EC436-759F-8026-CA8A-A77E8D424729">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SALT" id="930CFDBE-245F-B030-F190-421511EE3B52">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PASSWORD_HASH" id="AA780F8F-E7AE-A458-F5E1-6373B893FB38">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LOGIN_FAILS" id="B1A953A8-45CF-494B-9862-482947BA99CC">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>0</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="CREATED_AT" id="D4587E63-D068-E10A-ADC5-87B1368FCEEA">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>SYSDATE</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="PASSWORD_CHANGED_AT" id="EFFFDC9E-369F-B1F1-7801-198FC5B4B6B9">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<defaultValue>SYSDATE</defaultValue>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="IDX_TAIKHOAN_MANV" id="5ADEA27F-3426-866C-955B-2A4C396F20CE">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_TK_NV" id="3CFAA776-EAA4-3F62-AC32-32486593D7ED">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_TK_ROLE" id="4AEC2948-FC60-7B7A-2104-1441C270B23A">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="TAIKHOAN_PK" id="279983CE-802B-1CC8-7703-56239C34D9BF">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+<segment>4ABC485D-8D75-6D02-C5E1-635259744A6C</segment>
+<tableSpace>FCB4FF89-09B5-D935-B7F1-74160F3E6B54</tableSpace>
+<indexSegment>4ABC485D-8D75-6D02-C5E1-635259744A6C</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

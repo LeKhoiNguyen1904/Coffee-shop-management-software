@@ -1,0 +1,229 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0B97F995-1C77-DD0E-E0AF-54B89DBF76D2" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="HOADON">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>HOADON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MAHD" id="B41B9B8D-1667-C15B-FE3F-B693B1767707">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>MAHD</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MANV" id="57C07BEC-E06B-C2FD-E878-7380248EB0B6">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>MANV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BC4246A6-8730-0450-B6E0-4B309271D658" referredColumn="40B168E4-8DA9-5731-A91B-8D8CBFBDA876"/>
+</associations>
+</Column>
+<Column name="MABAN" id="A8734C09-1371-0B80-E21B-2E6380747BD2">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>MABAN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D823F7F7-213B-29FD-0EB3-AED894A9616F" referredColumn="1B0F39DF-2977-0EC9-72A5-22161BF5835B"/>
+</associations>
+</Column>
+<Column name="MAKH" id="A780BCDA-13F5-9F30-B82B-27BCE8B56613">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>MAKH</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="CBA27E54-8333-4FF7-B3E1-1231A82D517E" referredColumn="80FF64F9-3EF7-1D7B-512A-FD8358AEA185"/>
+</associations>
+</Column>
+<Column name="NGAYLAP" id="1B529085-E6C2-8061-4DD8-1282A4A7AA05">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>NGAYLAP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<defaultValue>SYSDATE</defaultValue>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TONGTIEN" id="71F21BCC-E4D8-0690-4CA0-A36296EB01DA">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>TONGTIEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<defaultValue>0</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TRANGTHAI" id="623E4608-6F53-854F-FD3D-89B4A809FBD1">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>TRANGTHAI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<constraintName>CHK_HD_TRANGTHAI</constraintName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<listOfValues>
+<valueDef value="&apos;CHO&apos;" description=""/>
+<valueDef value="&apos;DA_THANH_TOAN&apos;" description=""/>
+<valueDef value="&apos;HUY&apos;" description=""/>
+</listOfValues>
+<defaultValue>&apos;CHO&apos;</defaultValue>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PAYMENT_INFO_ENC" id="E3CB2239-2689-3867-885E-E884B510FCC1">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>PAYMENT_INFO_ENC</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>2000</dataTypeSize>
+<ownDataTypeParameters>2000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PAYMENT_INFO_IV" id="A35FA091-A314-8DA4-2071-9B00FF3DABC9">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>HOADON</sourceObjSchema>
+<sourceObjName>PAYMENT_INFO_IV</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LogDes-4BABEC65-108B-2A3C-F7C4-84AC47D292B0@LOGDT10040</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1BA14945-E734-D7EC-D38E-A8B97D0B951F" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="HOADON_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011648</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B41B9B8D-1667-C15B-FE3F-B693B1767707"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="A6F7B145-401C-A773-128C-B4F678FE337B" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_HOADON_NGAYLAP">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_HOADON_NGAYLAP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1B529085-E6C2-8061-4DD8-1282A4A7AA05"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="09ECE62C-3C24-7B52-4C7E-2E91CCE81139" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_HOADON_TRANGTHAI">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_HOADON_TRANGTHAI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="623E4608-6F53-854F-FD3D-89B4A809FBD1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E986E837-4257-703D-5BB5-F5EC653629FA" name="FK_HD_BAN">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A8734C09-1371-0B80-E21B-2E6380747BD2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DC454D40-7FCB-7657-6C78-A360CF369441" name="FK_HD_KH">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A780BCDA-13F5-9F30-B82B-27BCE8B56613"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6587532B-D0D5-9FF1-16CA-F5FBCB39FFFF" name="FK_HD_NV">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="57C07BEC-E06B-C2FD-E878-7380248EB0B6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

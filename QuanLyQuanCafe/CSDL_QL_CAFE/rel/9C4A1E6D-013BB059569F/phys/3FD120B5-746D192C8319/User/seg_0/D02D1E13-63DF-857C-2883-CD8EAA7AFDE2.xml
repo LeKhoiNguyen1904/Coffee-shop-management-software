@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<UserOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UserOraclev10g" name="C##CAFE_APP" directorySegmentName="seg_0" id="D02D1E13-63DF-857C-2883-CD8EAA7AFDE2">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjName>C##CAFE_APP</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:01 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<schemaObject>A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5</schemaObject>
+</UserOraclev10g>

@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|e:\\bm_csdl\\doan_quanlyquancafe\\quanlyquancafe(final)\\quanlyquancafe(update)\\quanlyquancafe\\nhom12_phanmemquanlyquancafe\\formols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\hybridencryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:hybridencryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\olshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:olshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\vpdcontextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:vpdcontextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formquanlymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formquanlymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formols.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formols.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formols.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formols.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formlichsudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formlichsudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:FormQuanLyMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\digitalsignaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:digitalsignaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\formquanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:formquanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormBanHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:FormBanHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD54BD1-24A9-4FB1-85EE-FA9030141C14}|Nhom12_PhanMemQuanLyQuanCafe.csproj|solutionrelative:FormQuanLyKho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VPDContextManager.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\VPDContextManager.cs",
+              "RelativeDocumentMoniker": "VPDContextManager.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\VPDContextManager.cs",
+              "RelativeToolTip": "VPDContextManager.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAUwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:23:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormDangNhap.cs",
+              "RelativeToolTip": "FormDangNhap.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAASwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:22:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswGkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:28:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OLSHelper.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\OLSHelper.cs",
+              "RelativeDocumentMoniker": "OLSHelper.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\OLSHelper.cs",
+              "RelativeToolTip": "OLSHelper.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAwwGEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:09:24.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HybridEncryptionHelper.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\HybridEncryptionHelper.cs",
+              "RelativeDocumentMoniker": "HybridEncryptionHelper.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\HybridEncryptionHelper.cs",
+              "RelativeToolTip": "HybridEncryptionHelper.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswKMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:09:23.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "FormThongKe.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormThongKe.cs",
+              "RelativeToolTip": "FormThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:44:53.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOLS.resx",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.resx",
+              "RelativeDocumentMoniker": "FormOLS.resx",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.resx",
+              "RelativeToolTip": "FormOLS.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-09T01:44:07.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "FormThongKe.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:12:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormQuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "FormQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Khoi Nguyen\\source\\BMCSDL\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:12:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:50.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAuditLog.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormAuditLog.cs",
+              "RelativeDocumentMoniker": "FormAuditLog.cs",
+              "ToolTip": "C:\\Users\\Khoi Nguyen\\source\\BMCSDL\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormAuditLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:56:05.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormQuanLyMenu.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs",
+              "RelativeDocumentMoniker": "FormQuanLyMenu.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:35:02.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormQuanLyMenu.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs",
+              "RelativeDocumentMoniker": "FormQuanLyMenu.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyMenu.cs",
+              "RelativeToolTip": "FormQuanLyMenu.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:35:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOLS.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.cs",
+              "RelativeDocumentMoniker": "FormOLS.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.cs [Design]",
+              "RelativeToolTip": "FormOLS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:53:44.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormAuditLog.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormAuditLog.cs",
+              "RelativeDocumentMoniker": "FormAuditLog.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormAuditLog.cs",
+              "RelativeToolTip": "FormAuditLog.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:01:23.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormBanHang.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "FormBanHang.cs",
+              "ToolTip": "C:\\Users\\Khoi Nguyen\\source\\BMCSDL\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:18:47.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DigitalSignatureHelper.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\DigitalSignatureHelper.cs",
+              "RelativeDocumentMoniker": "DigitalSignatureHelper.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\DigitalSignatureHelper.cs",
+              "RelativeToolTip": "DigitalSignatureHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:53:47.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:49:27.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormOLS.Designer.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.Designer.cs",
+              "RelativeDocumentMoniker": "FormOLS.Designer.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.Designer.cs",
+              "RelativeToolTip": "FormOLS.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:54:03.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOLS.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.cs",
+              "RelativeDocumentMoniker": "FormOLS.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormOLS.cs",
+              "RelativeToolTip": "FormOLS.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAcwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:54:23.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:56:35.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormLichSuDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormLichSuDangNhap.cs",
+              "RelativeDocumentMoniker": "FormLichSuDangNhap.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormLichSuDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QuanLyQuanCafe(Update_1)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormLichSuDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormQuanLyKho.cs [Design]",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs",
+              "RelativeDocumentMoniker": "FormQuanLyKho.cs",
+              "ToolTip": "E:\\BM_CSDL\\Video\\QuanLyQuanCafe\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Video\\QuanLyQuanCafe\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:36:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormBanHang.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "FormBanHang.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormBanHang.cs",
+              "RelativeToolTip": "FormBanHang.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:18:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormQuanLyKho.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs",
+              "RelativeDocumentMoniker": "FormQuanLyKho.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\FormQuanLyKho.cs",
+              "RelativeToolTip": "FormQuanLyKho.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:36:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\SessionManager.cs",
+              "RelativeDocumentMoniker": "SessionManager.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\SessionManager.cs",
+              "RelativeToolTip": "SessionManager.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAAAGYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:50:03.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BM_CSDL\\DoAn_QuanLyQuanCafe\\QuanLyQuanCafe(Final)\\QuanLyQuanCafe(Update)\\QuanLyQuanCafe\\Nhom12_PhanMemQuanLyQuanCafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:59:54.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

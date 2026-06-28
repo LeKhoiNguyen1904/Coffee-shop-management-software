@@ -1,0 +1,94 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="CE19050D-23F1-986A-85E2-C227EB420A3D" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="BAN">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>BAN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MABAN" id="1B0F39DF-2977-0EC9-72A5-22161BF5835B">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>BAN</sourceObjSchema>
+<sourceObjName>MABAN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TENBAN" id="D3EA9EDE-E6A0-C5CD-82DE-533378534397">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>BAN</sourceObjSchema>
+<sourceObjName>TENBAN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 BYTE</dataTypeSize>
+<ownDataTypeParameters>50 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VITRI" id="395D57A8-F97B-8D6F-F550-6ADAC23EF733">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>BAN</sourceObjSchema>
+<sourceObjName>VITRI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TRANGTHAI" id="2A5C3C40-C760-9906-1D87-62243F7ACC86">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>BAN</sourceObjSchema>
+<sourceObjName>TRANGTHAI</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<constraintName>CHK_BAN_TRANGTHAI</constraintName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<listOfValues>
+<valueDef value="&apos;BAO_TRI&apos;" description=""/>
+<valueDef value="&apos;DANG_SU_DUNG&apos;" description=""/>
+<valueDef value="&apos;TRONG&apos;" description=""/>
+</listOfValues>
+<defaultValue>&apos;TRONG&apos;</defaultValue>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="23D51D19-A4FC-8999-85F5-C8BD6D64D85D" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="BAN_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011640</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:03 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1B0F39DF-2977-0EC9-72A5-22161BF5835B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

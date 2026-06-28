@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="3AB3BDC3-3F76-C51B-011F-12BF1CF8EBF6" containerWithKeyObject="D5A6ACFC-4958-5F27-56AB-24938C89FA46" localFKIndex="01B2BAA8-6C64-F438-A2B2-21B6693D50C2" name="FK_PN_NCC">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>FK_PN_NCC</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<referredTableLongName>C##CAFE_APP.NHACUNGCAP</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>7F5CE26C-3B30-343B-5A9F-102575767102</referredTableID>
+<keyObject>7A36BA6B-63B7-38C6-D193-ECA9CAB1AC2E</keyObject>
+<referredKeyID>7A36BA6B-63B7-38C6-D193-ECA9CAB1AC2E</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>MANCC</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

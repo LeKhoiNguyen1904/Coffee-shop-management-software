@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="CBA27E54-8333-4FF7-B3E1-1231A82D517E" containerWithKeyObject="0B97F995-1C77-DD0E-E0AF-54B89DBF76D2" localFKIndex="DC454D40-7FCB-7657-6C78-A360CF369441" name="FK_HD_KH">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>FK_HD_KH</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<referredTableLongName>C##CAFE_APP.KHACHHANG</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>898831A0-6C7A-6090-60BA-F69B03B3D7C3</referredTableID>
+<keyObject>266F54DF-5D62-1FA1-A5B9-357FBD57C058</keyObject>
+<referredKeyID>266F54DF-5D62-1FA1-A5B9-357FBD57C058</referredKeyID>
+<mandatory>false</mandatory>
+<refColNames>MAKH</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

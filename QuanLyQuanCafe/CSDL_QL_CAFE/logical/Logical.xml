@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="E586897C-543B-F051-B037-0BC8A80D7E80" mainViewID="81FC504B-2ED0-DE6E-5BC3-3D24304E7490">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:11:56 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

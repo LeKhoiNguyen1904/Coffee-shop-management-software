@@ -1,0 +1,150 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9BBBA6A0-9703-5010-DAD7-648175F2EEEA" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="CHITIET_HD">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>CHITIET_HD</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MAHD" id="8540E05F-896F-C431-D9CE-61EE87A4417B">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>MAHD</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="DE240201-B579-DDD5-8BD5-E684736C3F5F" referredColumn="B41B9B8D-1667-C15B-FE3F-B693B1767707"/>
+</associations>
+</Column>
+<Column name="MAMON" id="BB897DE5-DF13-E01A-0986-A3699A3B1A2A">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>MAMON</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D1DAF389-B960-6EDF-DFA8-CFE4D2007616" referredColumn="35A6C021-7659-4D15-3965-5E40209626F5"/>
+</associations>
+</Column>
+<Column name="SOLUONG" id="E2CFB368-8D71-8AA0-BCF3-F57F5C0129B7">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>SOLUONG</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DONGIA" id="72204328-7AAA-882C-132B-0D195A6A26A7">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>DONGIA</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="GIAMGIA" id="8139A30C-67FD-836D-643E-B3C88E00D736">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>GIAMGIA</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<defaultValue>0</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="THANHTIEN" id="E63FBF4D-033A-F0FE-7197-DC6026FF926A">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>CHITIET_HD</sourceObjSchema>
+<sourceObjName>THANHTIEN</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:02 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="04E1B630-CA20-7211-FF27-7F47BEE00C2E" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="CHITIET_HD_PK">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>SYS_C0011656</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8540E05F-896F-C431-D9CE-61EE87A4417B"/>
+<colUsage columnID="BB897DE5-DF13-E01A-0986-A3699A3B1A2A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8349A831-08FC-1996-F8DD-035876F716F7" schemaObject="A1324AC8-7717-9A2C-5B8E-4D35ECAF21A5" name="IDX_CTHD_MAHD">
+<sourceConnName>CAFE_APP</sourceConnName>
+<sourceObjSchema>C##CAFE_APP</sourceObjSchema>
+<sourceObjName>IDX_CTHD_MAHD</sourceObjName>
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:04 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8540E05F-896F-C431-D9CE-61EE87A4417B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DE05791B-A578-05A2-641E-C2968031026F" name="FK_CTHD_HD">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8540E05F-896F-C431-D9CE-61EE87A4417B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DAD32699-EF26-9A9C-FBD1-750A05F392CF" name="FK_CTHD_MON">
+<createdBy>pc</createdBy>
+<createdTime>2025-12-10 05:13:05 UTC</createdTime>
+<ownerDesignName>CSDL_QL_CAFE</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BB897DE5-DF13-E01A-0986-A3699A3B1A2A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
